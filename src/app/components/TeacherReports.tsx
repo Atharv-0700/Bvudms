@@ -468,3 +468,5 @@ export function TeacherReports({ user, onLogout }: TeacherReportsProps) {
     </DashboardLayout>
   );
 }
+
+{/* DEPLOY FORCE CHECK 01/03/2026 22:22:56 */}
